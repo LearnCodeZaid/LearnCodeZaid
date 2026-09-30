@@ -1,0 +1,118 @@
+<p align="center">
+  <a href="https://github.com/LearnCodeZaid">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:9e7bea&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%20am%20Zaid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learn%20%7C%20Code%20%7C%20Build%20%7C%20Repeat&descSize=20&descAlignY=62" alt="Hi, I am Zaid" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9E7BEA&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+universe+%F0%9F%9A%80;Aspiring+Software+Engineer+%7C+C%2B%2B+%2B+DSA+learner;Writing+clean+code%2C+one+commit+at+a+time+%E2%9C%A8;Learning+in+public+%E2%80%94+join+the+journey+%F0%9F%8C%B1" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LearnCodeZaid&label=Profile%20views&color=6e40c9&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/LearnCodeZaid?label=Followers&style=for-the-badge&color=6e40c9" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-C%2B%2B%20%2B%20DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Focus" />
+</p>
+
+---
+
+### About Me
+
+Hi! I'm **Zaid** — an aspiring software engineer learning **in public**.
+
+- Working on [**my-code-and-practice-and-learning**](https://github.com/LearnCodeZaid/my-code-and-practice-and-learning) — my C++ + DSA practice ground
+- Learning **C++, Data Structures & Algorithms, problem-solving patterns**
+- Philosophy: *no copying — understand every topic, write every line myself*
+- Goal: become a strong problem solver, then a full-stack builder
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LearnCodeZaid&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Zaid's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LearnCodeZaid&theme=dracula&hide_border=true" alt="GitHub streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearnCodeZaid&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LearnCodeZaid&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies" height="165" />
+</p>
+
+---
+
+### Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LearnCodeZaid&theme=dracula&hide_border=true&area=true" alt="Activity graph" />
+</p>
+
+---
+
+### DSA Journey
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Arrays-6e40c9?style=for-the-badge" alt="Arrays" />
+  <img src="https://img.shields.io/badge/Strings-6e40c9?style=for-the-badge" alt="Strings" />
+  <img src="https://img.shields.io/badge/Linked_List-6e40c9?style=for-the-badge" alt="Linked List" />
+  <img src="https://img.shields.io/badge/Stacks_Queues-6e40c9?style=for-the-badge" alt="Stacks Queues" />
+  <img src="https://img.shields.io/badge/Trees-9e7bea?style=for-the-badge" alt="Trees" />
+  <img src="https://img.shields.io/badge/Graphs-9e7bea?style=for-the-badge" alt="Graphs" />
+  <img src="https://img.shields.io/badge/DP-9e7bea?style=for-the-badge" alt="DP" />
+</p>
+
+All practice lives here -> [**my-code-and-practice-and-learning**](https://github.com/LearnCodeZaid/my-code-and-practice-and-learning)
+
+---
+
+### Goals
+
+- [x] Start learning in public on GitHub
+- [x] Set up elite animated profile
+- [ ] Solve 100+ DSA problems with documented approaches
+- [ ] Master recursion, trees, graphs and DP
+- [ ] Build and ship 3 portfolio projects
+- [ ] Contribute to open source
+
+---
+
+### Connect With Me
+
+<p align="left">
+  <a href="https://github.com/LearnCodeZaid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/LearnCodeZaid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+
+### Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev quote" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LearnCodeZaid/LearnCodeZaid/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/LearnCodeZaid">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:9e7bea&height=130&section=footer" alt="Footer" />
+  </a>
+</p>
+
+<p align="center"><i>From <a href="https://github.com/LearnCodeZaid">LearnCodeZaid</a> — built with curiosity, powered by consistency</i></p>
